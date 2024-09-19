@@ -1,1 +1,4 @@
 hello git file
+lin2
+line3
+lin4
