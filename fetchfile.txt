@@ -1,7 +1,0 @@
-fetchfile created
-firstline for fetchfile
-Adding thirdline
-nextline added
-fourth-line
-nextline added lines
-nextline added lines

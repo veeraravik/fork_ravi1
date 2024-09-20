@@ -1,4 +1,0 @@
-My branchname firstfile
-MySecond  file 
-
-added a newline 
