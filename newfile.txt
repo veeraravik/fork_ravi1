@@ -1,2 +1,3 @@
 newfile
 adding a new line
+adding third line
